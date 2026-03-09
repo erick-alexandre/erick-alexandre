@@ -1,7 +1,7 @@
 # Olá, meu nome é Erick:
 Estudante de Analise e Desenvolvimento de Sistemas<br>
 Desenvolvedor focado em JavaScript e TypeScript.<br>
-Atualmente construindo APIs e aplicações web utilizando Node.js, NestJS, Next.js e bancos de dados SQL e NoSQL.<br>
+Atualmente construindo APIs, aplicações web e mobile utilizando Node.js, NestJS, Next.js, Expo - React Native e bancos de dados SQL e NoSQL.<br>
 Apaixonado por tecnologia, arquitetura de software e aprendizado contínuo.<br>
 
 ## 🌐 Socials:
